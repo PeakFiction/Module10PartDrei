@@ -1,7 +1,15 @@
 # YewChat 💬
 
+**Before:**
+![Before Screenshot](https://github.com/PeakFiction/Module10PartDrei/assets/112671939/a6a5ae8a-24b1-4e8f-9e29-3cbfbfda2cc7)
 
-<img width="1470" alt="Screenshot 2024-05-07 at 16 42 46" src="https://github.com/PeakFiction/Module10PartDrei/assets/112671939/394dbbf5-d5fa-4fec-8fac-ac009050add8">
+**After:**
+![After Screenshot](https://github.com/PeakFiction/Module10PartDrei/assets/112671939/394dbbf5-d5fa-4fec-8fac-ac009050add8)
+
+- Changed the background to black
+- Added green outlines and accents to mimic Vault-Tec's Pip-Boy design
+- Adjusted status text and fonts to fit the theme
+- Chat itself inspired by [this tweet](https://twitter.com/fallenchungus/status/1773199403651666173/photo/1)
 
 
 
